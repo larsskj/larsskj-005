@@ -4,14 +4,14 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "larsskj-005"
 Date ""
-Rev ""
-Comp ""
+Rev "01"
+Comp "Lars Skjærlund"
 Comment1 ""
 Comment2 ""
-Comment3 ""
-Comment4 ""
+Comment3 "Copyright © 2019 by Lars Skjærlund"
+Comment4 "An LED tester for larsskj-003 boards."
 $EndDescr
 $Comp
 L Connector_Generic:Conn_02x08_Odd_Even J1
