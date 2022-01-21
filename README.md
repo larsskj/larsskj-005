@@ -11,7 +11,7 @@ For more information, visit the [project homepage](https://larsskj.org/projects/
 
 ![3D image](larsskj-005.3d.png)
 
-The files provided are project files for [KiCad 5](http://kicad-pcb.org/).
+The files provided are project files for [KiCad 5](http://kicad.org/).
 
 The board is shared at [OSH Park](https://oshpark.com/shared_projects/7hGy0Jvt), where you can order copies.
 
